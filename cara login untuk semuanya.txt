@@ -1,0 +1,8 @@
+login admin :	username	: admin
+	    :	password	: admin123
+
+login kurir :	username	: kurir
+	    :	password	: kurir123
+
+login owner :	username	: owner
+	    :	password	: owner123
